@@ -52,7 +52,7 @@
     },
     "WebsiteName": {
       "type": "string",
-      "defaultValue": "[format('{0}-website', parameters('ResourcePrefix'))]",
+      "defaultValue": "[format('{0}-knowsphere', parameters('ResourcePrefix'))]",
       "metadata": {
         "description": "Name of Web App"
       }
